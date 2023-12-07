@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+
+# Heroku
+*.log
+*.sqlite3
+
+# Output files
+output_files/
+
+# Uploaded files
+uploaded_files/
+
+# Dependency directories
+.idea/
+.vscode/
+
+# Editor/IDE configuration
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+
+# OS-generated files
+.DS_Store
+Thumbs.db

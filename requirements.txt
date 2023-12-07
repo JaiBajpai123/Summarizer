@@ -1,0 +1,5 @@
+fastapi==0.68.1
+uvicorn==0.15.0
+transformers==4.12.0
+fpdf==1.7.2
+PyPDF2==1.26.0
