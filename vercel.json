@@ -1,0 +1,12 @@
+{
+    "functions": {
+      "api/main.py": {
+        "runtime": "python3.8",
+        "buildCommand": "./start.sh",
+        "routes": [
+          { "src": "/(.*)", "dest": "./main.py" }
+        ]
+      }
+    }
+  }
+  
